@@ -19,6 +19,8 @@
 
 此外，也欢迎添加我的个人微信 **iiicpp**，一起讨论技术问题！
 
+----
+
 
 This repository organizes resources into different folders for easy categorization. Specifically, 
 | folders      | Contents |
